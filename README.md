@@ -1,6 +1,8 @@
 ## 📺 Netflix Clone – Streaming UI with Next.js
 
-A fully responsive **Netflix-inspired streaming homepage**, built using **Next.js** and **Tailwind CSS**. This project showcases a modern user interface with a functional sign-in flow, email capture, and responsive design — just like the real Netflix landing page.
+A fully responsive Netflix-inspired streaming homepage, built using Next.js and Tailwind CSS. This project showcases a modern user interface with a functional sign-in flow, email capture, and responsive design — just like the real Netflix landing page.
+
+✨ For now, you can watch the trailer for free — no login required!
 
 ---
 
@@ -18,18 +20,15 @@ A fully responsive **Netflix-inspired streaming homepage**, built using **Next.j
 
 ### 🛠 Tech Stack
 
-* **Frontend**: React, Next.js (App Router), Tailwind CSS
-* **Deployment**: Vercel
-* **Version Control**: Git & GitHub
+* Frontend: React, Next.js (App Router), Tailwind CSS
+* Deployment: Vercel
+* Version Control: Git & GitHub
 
 ---
 
 ### 🌐 Live Demo
 
-[https://your-netflix-clone.vercel.app](https://your-netflix-clone.vercel.app)
-
-> *(Replace with your actual Vercel URL)*
-
+https://netfilx-kappa.vercel.app/
 ---
 
 ### 🚀 How to Run Locally
