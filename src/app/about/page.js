@@ -62,10 +62,7 @@ export default function AboutPage() {
           <h2 className="text-2xl font-semibold mb-2">Contact Us</h2>
           <p className="text-gray-400 mb-1">Questions? Reach out to our support team.</p>
           <p className="text-gray-400">
-            Email: <a href="mailto:support@netflixclone.com" className="text-red-500 hover:underline">support@netflixclone.com</a>
-          </p>
-          <p className="text-gray-400">
-            Phone: <a href="tel:0008001234567" className="text-red-500 hover:underline">000-800-123-4567</a>
+            Email: <a href="mailto:testsmmail8@gmail.com" className="text-red-500 hover:underline">testsmmail8@gmail.com</a>
           </p>
         </section>
       </div>
