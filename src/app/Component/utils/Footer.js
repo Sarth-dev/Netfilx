@@ -73,7 +73,7 @@ export default function Footer() {
           </select>
         </div>
 
-        <p className="text-gray-400">Netflix India</p>
+        <p className="text-gray-400">Netflix India By Sarthak Kale</p>
       </footer>
     </>
   );
